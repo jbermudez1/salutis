@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,100,700");
+body {
+  font-family: 'myriad set pro', sans-serif;
+}
+body .main-container {
+  background-image: url("../img/fondo.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  height: 100%;
+  color: #fff;
+}
+body .main-container .gradient {
+  padding-top: 3em;
+  height: 100%;
+  background-color: rgba(88,166,160,0.7);
+  background-image: -webkit--webkit-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -webkit--moz-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -webkit--o-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -webkit--ms-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -webkit-linear-gradient(120deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -moz--webkit-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -moz--moz-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -moz--o-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -moz--ms-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -moz-linear-gradient(120deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -ms--webkit-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -ms--moz-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -ms--o-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -ms--ms-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -ms-linear-gradient(120deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -o--webkit-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -o--moz-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -o--o-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -o--ms-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -o-linear-gradient(120deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -webkit-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -moz-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -o-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: -ms-linear-gradient(330deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+  background-image: linear-gradient(120deg, rgba(88,166,160,0.7) 45%, rgba(202,224,168,0.7) 95%);
+}
+body .main-container img {
+  max-width: 300px;
+  text-align: center;
+}
+body .main-container h1 {
+  text-align: center;
+  margin-top: 5em;
+}
+body .main-container h4 {
+  text-align: center;
+}
+body .info-content {
+  height: 20em;
+  padding-top: 5em;
+  margin-bottom: 3em;
+}
+body .info-content .container .row div h1 {
+  text-align: center;
+  margin-bottom: 1em;
+}
+body .info-content .container .row div h4 {
+  text-align: center;
+}
+body .benefits {
+  background-color: #255769;
+  color: #fff;
+  padding-bottom: 2em;
+}
+body .benefits h1 {
+  text-align: center;
+  margin-bottom: 1em;
+}
+body .benefits button {
+  text-align: center;
+}
+body .features {
+  padding-top: 3em;
+  padding-bottom: 4em;
+  background-color: #ebebeb;
+}
+body .form-content {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+body .salutis-footer {
+  background-color: #255769;
+  color: #fff;
+  height: 20em;
+  padding-top: 3em;
+}
