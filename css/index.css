@@ -63,6 +63,9 @@ body .info-content .container .row div h1 {
 body .info-content .container .row div h4 {
   text-align: center;
 }
+body .info-content .container .row div button {
+  text-align: center;
+}
 body .benefits {
   background-color: #255769;
   color: #fff;
@@ -87,6 +90,6 @@ body .form-content {
 body .salutis-footer {
   background-color: #255769;
   color: #fff;
-  height: 20em;
+  height: 40em;
   padding-top: 3em;
 }
